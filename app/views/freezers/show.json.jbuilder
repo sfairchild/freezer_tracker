@@ -1,0 +1,1 @@
+json.partial! "freezers/freezer", freezer: @freezer

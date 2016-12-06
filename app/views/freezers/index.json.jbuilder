@@ -1,0 +1,1 @@
+json.array! @freezers, partial: 'freezers/freezer', as: :freezer
